@@ -14,8 +14,6 @@ they need to implement Continuous Integration & Continuous Deployment with DevOp
 	
 	
 This project will be about how to do deploy code to dev/stage/prod etc, just on a click of button.
-
-
 ============================================================================
 
 CICD Setup: 
